@@ -1,0 +1,33 @@
+#main {
+    background-color: whitesmoke;
+  }
+  #title {
+    text-align: center;
+    font-size: 50px;
+  }
+  #caption {
+    text-align: center;
+    font-size: 30px;
+  }
+  #img-div {
+    background-color: lightgray;
+  }
+  #image {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: auto;
+  }
+  #image-caption {
+    text-align: center;
+  }
+  #list-title {
+    text-align: center;
+  }
+  #quote {
+    text-align: center;
+  }
+  #information {
+    text-align: right;
+  }
+  
